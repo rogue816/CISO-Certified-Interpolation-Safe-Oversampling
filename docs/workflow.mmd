@@ -1,0 +1,37 @@
+%% Mermaid source for the CISO workflow. GitHub renders this inline in Markdown.
+%% The rendered SVG in docs/workflow.svg carries more detail.
+flowchart TD
+    subgraph CORE["Core implementation"]
+        A1[ciso.py<br/>sampler, 3 phases, certificate] --> A2[registry.py<br/>17 methods]
+        A2 --> A3[engine.py<br/>3x5 stratified CV]
+        A3 --> A4[metrics.py<br/>PR-AUC, ROC-AUC, G-mean]
+    end
+
+    subgraph D["1 - Data"]
+        B1[data/keel/<br/>42 files] --> B2[loaders.py] --> B3[validate_keel.py]
+    end
+
+    subgraph T["2 - Tune, 5 datasets, disjoint"]
+        C1[run_tuning.py<br/>90 configs] --> C2[(tuning_results.csv)] --> C3[lock_hyperparameters.py]
+    end
+
+    LOCK{{"Hyperparameters locked<br/>k=7, alpha=2.0, q=1.2, beta=0.1, eps0=0.1<br/>baselines keep library defaults"}}
+
+    subgraph E["3 - Confirmatory evaluation, run once, 37 datasets"]
+        E1[run_evaluation.py] --> E2[(eval_results.csv)] --> E3[Q1 Q2 Q3 Q4<br/>Friedman, Holm-Wilcoxon]
+    end
+
+    subgraph X["4 - Descriptive analyses"]
+        F1[run_fidelity.py]
+        F2[run_scale.py]
+        F3[run_alpha_sweep.py]
+        F4[toy_visual.py]
+    end
+
+    subgraph O["5 - Artefacts"]
+        G1[analyze.py] --> G2[make_paper_figures.py]
+        G2 --> G3[(figures/)]
+        G1 --> G4[(tables/)]
+    end
+
+    CORE --> D --> T --> LOCK --> E --> X --> O
