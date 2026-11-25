@@ -1,0 +1,21 @@
+\begin{table}[t]
+\centering
+\caption{Scale suite: the 8 UCI datasets used for the large-scale evaluation. Multi-class datasets are binarized by the smallest-class-versus-rest rule. Statistics are computed by the data loader at fetch time.}
+\label{tab:scale}
+\footnotesize
+\setlength{\tabcolsep}{6pt}
+\begin{tabular}{@{}lrrlr@{}}
+\toprule
+Dataset & $N$ & $d$ & Positive class & IR\\
+\midrule
+Spambase & 4601 & 57 & spam (native) & 1.5 \\
+Waveform & 5000 & 21 & smallest class & 2.0 \\
+Statlog (Landsat) & 6435 & 36 & smallest class & 9.3 \\
+Musk (v2) & 6598 & 166 & musk (native) & 5.5 \\
+Page Blocks & 5473 & 10 & smallest class & \textbf{[verify]} \\
+Online Shoppers & 12330 & 17 & Revenue (native) & 5.5 \\
+HTRU2 & 17898 & 8 & pulsar (native) & 9.9 \\
+Letter & 20000 & 16 & smallest class & 26.2 \\
+\bottomrule
+\end{tabular}
+\end{table}

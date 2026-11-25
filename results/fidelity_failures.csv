@@ -1,0 +1,24 @@
+dataset,method,repeat,fold,error
+dermatology-6,Borderline-SMOTE,0,1,RuntimeError: no synthetic block
+dermatology-6,ADASYN,0,1,RuntimeError: Not any neigbours belong to the majority class. This case will induce a NaN case with a division by zero. ADASYN is not suited for this specific dataset. Use SMOTE instead.
+dermatology-6,Borderline-SMOTE,1,4,RuntimeError: no synthetic block
+dermatology-6,ADASYN,1,4,RuntimeError: Not any neigbours belong to the majority class. This case will induce a NaN case with a division by zero. ADASYN is not suited for this specific dataset. Use SMOTE instead.
+dermatology-6,Borderline-SMOTE,2,0,RuntimeError: no synthetic block
+dermatology-6,Borderline-SMOTE,2,2,RuntimeError: no synthetic block
+dermatology-6,ADASYN,2,2,RuntimeError: Not any neigbours belong to the majority class. This case will induce a NaN case with a division by zero. ADASYN is not suited for this specific dataset. Use SMOTE instead.
+shuttle-c0-vs-c4,Borderline-SMOTE,0,0,RuntimeError: no synthetic block
+shuttle-c0-vs-c4,Borderline-SMOTE,0,1,RuntimeError: no synthetic block
+shuttle-c0-vs-c4,ADASYN,0,1,RuntimeError: Not any neigbours belong to the majority class. This case will induce a NaN case with a division by zero. ADASYN is not suited for this specific dataset. Use SMOTE instead.
+shuttle-c0-vs-c4,Borderline-SMOTE,0,2,RuntimeError: no synthetic block
+shuttle-c0-vs-c4,Borderline-SMOTE,0,3,RuntimeError: no synthetic block
+shuttle-c0-vs-c4,Borderline-SMOTE,0,4,RuntimeError: no synthetic block
+shuttle-c0-vs-c4,Borderline-SMOTE,1,0,RuntimeError: no synthetic block
+shuttle-c0-vs-c4,Borderline-SMOTE,1,1,RuntimeError: no synthetic block
+shuttle-c0-vs-c4,Borderline-SMOTE,1,2,RuntimeError: no synthetic block
+shuttle-c0-vs-c4,Borderline-SMOTE,1,3,RuntimeError: no synthetic block
+shuttle-c0-vs-c4,Borderline-SMOTE,1,4,RuntimeError: no synthetic block
+shuttle-c0-vs-c4,Borderline-SMOTE,2,0,RuntimeError: no synthetic block
+shuttle-c0-vs-c4,ADASYN,2,0,RuntimeError: Not any neigbours belong to the majority class. This case will induce a NaN case with a division by zero. ADASYN is not suited for this specific dataset. Use SMOTE instead.
+shuttle-c0-vs-c4,Borderline-SMOTE,2,1,RuntimeError: no synthetic block
+shuttle-c0-vs-c4,Borderline-SMOTE,2,2,RuntimeError: no synthetic block
+shuttle-c0-vs-c4,Borderline-SMOTE,2,3,RuntimeError: no synthetic block

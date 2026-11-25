@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "CISO: Certified Interpolation Safe Oversampling"
+message: "If you use this software, please cite the accompanying paper."
+type: software
+authors:
+  - family-names: Yadav
+    given-names: Pankaj
+    affiliation: "Indian Institute of Technology Jodhpur"
+repository-code: "https://github.com/USERNAME/ciso"
+license: MIT
+keywords:
+  - imbalanced learning
+  - oversampling
+  - synthetic minority generation
+  - q-Gaussian
+  - certified generation
+preferred-citation:
+  type: article
+  title: "PAPER TITLE"
+  authors:
+    - family-names: Yadav
+      given-names: Pankaj
+      affiliation: "Indian Institute of Technology Jodhpur"
+  journal: "JOURNAL"
+  year: 2026

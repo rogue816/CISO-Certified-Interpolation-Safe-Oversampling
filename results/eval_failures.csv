@@ -1,0 +1,1395 @@
+dataset,method,repeat,fold,error
+abalone9-18,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+dermatology-6,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli-0_vs_1,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli1,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+ecoli4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+flare-F,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-2-3_vs_4-5-6,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_2,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass-0-1-6_vs_5,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass1,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass2,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass5,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+glass6,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+new-thyroid1,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+newthyroid2,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+pima,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+segment0,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+shuttle-c0-vs-c4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle0,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle1,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle2,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vehicle3,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+vowel0,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+car-good,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+winequality-red-4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+wisconsin,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-0-5-6-7-9_vs_4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-2-8-9_vs_7,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1-4-5-8_vs_7,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-1_vs_7,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast-2_vs_8,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast1,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast4,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast5,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,0,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,0,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,0,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,0,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,0,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,1,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,1,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,1,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,1,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,1,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,2,0,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,2,1,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,2,2,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,2,3,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+yeast6,MWMOTE,2,4,TypeError: KMeans.__init__() got an unexpected keyword argument 'n_jobs'
+abalone9-18,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+abalone9-18,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+dermatology-6,ADASYN,0,1,RuntimeError: Not any neigbours belong to the majority class. This case will induce a NaN case with a division by zero. ADASYN is not suited for this specific dataset. Use SMOTE instead.
+dermatology-6,ADASYN,1,4,RuntimeError: Not any neigbours belong to the majority class. This case will induce a NaN case with a division by zero. ADASYN is not suited for this specific dataset. Use SMOTE instead.
+dermatology-6,ADASYN,2,2,RuntimeError: Not any neigbours belong to the majority class. This case will induce a NaN case with a division by zero. ADASYN is not suited for this specific dataset. Use SMOTE instead.
+ecoli4,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+ecoli4,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+ecoli4,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+ecoli4,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+ecoli4,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+flare-F,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+flare-F,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+flare-F,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+flare-F,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+flare-F,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+flare-F,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+flare-F,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+flare-F,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+flare-F,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+flare-F,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+flare-F,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+flare-F,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_2,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_5,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_5,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_5,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_5,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_5,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_5,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_5,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass-0-1-6_vs_5,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass2,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass4,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass4,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass4,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass4,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass4,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass4,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass4,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass4,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass4,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+glass5,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+segment0,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+segment0,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+segment0,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+segment0,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+segment0,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+segment0,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+segment0,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+shuttle-c0-vs-c4,ADASYN,0,1,RuntimeError: Not any neigbours belong to the majority class. This case will induce a NaN case with a division by zero. ADASYN is not suited for this specific dataset. Use SMOTE instead.
+shuttle-c0-vs-c4,ADASYN,2,0,RuntimeError: Not any neigbours belong to the majority class. This case will induce a NaN case with a division by zero. ADASYN is not suited for this specific dataset. Use SMOTE instead.
+vehicle1,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle1,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle1,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle1,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle1,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle1,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle1,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle1,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle2,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle2,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle2,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle2,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle2,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle2,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle2,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vehicle3,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+vowel0,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+car-good,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+winequality-red-4,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-0-5-6-7-9_vs_4,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-2-8-9_vs_7,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1-4-5-8_vs_7,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast-1_vs_7,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast1,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast4,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast5,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,0,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,0,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,0,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,0,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,0,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,1,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,1,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,1,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,1,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,1,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,2,0,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,2,1,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,2,2,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,2,3,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.
+yeast6,KMeans-SMOTE,2,4,RuntimeError: No clusters found with sufficient samples of class 1. Try lowering the cluster_balance_threshold or increasing the number of clusters.

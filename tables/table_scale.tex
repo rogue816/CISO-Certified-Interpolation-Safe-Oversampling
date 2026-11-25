@@ -1,0 +1,20 @@
+\begin{table}[t]\centering
+\caption{Scale suite: mean PR-AUC rank across the eight UCI datasets (lower is better). The final rows give CISO's median per-dataset PR-AUC difference against SMOTE and the Wilcoxon signed-rank $p$-value. The support vector machine is omitted per the preregistered protocol.}
+\label{tab:scale-results}\footnotesize
+\begin{tabular}{@{}lrrr@{}}\toprule
+Method & LR & RF & HGB\\\midrule
+No resampling & 2.69 & 4.69 & 4.19 \\
+Class weighting & 5.12 & 3.38 & 4.50 \\
+Random oversampling & 5.62 & 3.00 & 3.00 \\
+SMOTE & 5.50 & 4.50 & 4.88 \\
+Borderline-SMOTE & 9.75 & 7.38 & 7.62 \\
+ADASYN & 7.62 & 8.12 & 6.50 \\
+SMOTE-ENN & 7.75 & 10.88 & 10.50 \\
+SMOTE-Tomek & 5.88 & 5.50 & 5.38 \\
+Safe-Level-SMOTE & 4.94 & 7.19 & 9.44 \\
+G-SMOTE & 6.62 & 5.62 & 4.50 \\
+\textbf{CISO} & 4.50 & 5.75 & 5.50 \\
+\midrule
+CISO $-$ SMOTE (median) & +0.0016 & -0.0004 & -0.0003 \\
+Wilcoxon $p$ & 0.383 & 0.641 & 0.547 \\
+\bottomrule\end{tabular}\end{table}

@@ -1,0 +1,46 @@
+% ============================================================
+% CERTIFICATE PANEL — two layout options. Pick ONE.
+% Requires: \usepackage{graphicx}  (already in sn-jnl template)
+% ============================================================
+
+% ---- OPTION A: full-width 2x2 panel (recommended) ----------
+\begin{figure*}[t]                 % figure* spans full text width
+  \centering
+  \includegraphics[width=0.92\textwidth]{fig_certificate_panel.pdf}
+  \caption{The clearance certificate across four controlled minority
+  geometries. Majority instances are grey; minority instances are
+  coloured by safety score $s_i$; anchors with a positive certificate
+  ($\gamma_i>0$, Lemma~\ref{lem:margin}) are ringed in red. The certified
+  fraction (panel titles) responds to structure: it is complete for
+  well-separated clusters (a), collapses under overlap (b), and---because
+  the certificate is \emph{per anchor}---distinguishes a safe cluster from
+  bridging small disjuncts within the same dataset (c) and tracks a
+  curved manifold (d). Axes are the standardized features.}
+  \label{fig:certificate}
+\end{figure*}
+
+% ---- OPTION B: single-row 1x4 strip ------------------------
+% \begin{figure*}[t]
+%   \centering
+%   \includegraphics[width=\textwidth]{fig_certificate_row.pdf}
+%   \caption{ ... same caption ... }
+%   \label{fig:certificate}
+% \end{figure*}
+
+% ============================================================
+% If you ever want the four panels as INDEPENDENT side-by-side
+% subfigures (individually referenceable as (a)-(d)), use this
+% with \usepackage{subcaption}. Requires four separate PDFs
+% (fig_cert_a.pdf ... fig_cert_d.pdf) — ask and I will export them.
+% ------------------------------------------------------------
+% \begin{figure*}[t]\centering
+%   \begin{subfigure}{0.24\textwidth}\includegraphics[width=\linewidth]{fig_cert_a.pdf}
+%     \caption{well-separated}\label{fig:cert-a}\end{subfigure}\hfill
+%   \begin{subfigure}{0.24\textwidth}\includegraphics[width=\linewidth]{fig_cert_b.pdf}
+%     \caption{overlapping}\label{fig:cert-b}\end{subfigure}\hfill
+%   \begin{subfigure}{0.24\textwidth}\includegraphics[width=\linewidth]{fig_cert_c.pdf}
+%     \caption{bridging}\label{fig:cert-c}\end{subfigure}\hfill
+%   \begin{subfigure}{0.24\textwidth}\includegraphics[width=\linewidth]{fig_cert_d.pdf}
+%     \caption{thin manifold}\label{fig:cert-d}\end{subfigure}
+%   \caption{...}\label{fig:certificate}
+% \end{figure*}

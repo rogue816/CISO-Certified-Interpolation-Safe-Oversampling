@@ -1,0 +1,12 @@
+\begin{table}[t]\centering
+\caption{Component ablation. For each variant we report the median per-dataset PR-AUC difference (CISO minus variant) by classifier, the smallest Holm-corrected $p$-value across the four classifiers, and the corresponding comparison on the geometric novelty diagnostic (mean distance from synthetic instances to the nearest original minority instance). No component is detectable in predictive performance; every component is detectable in geometry.}
+\label{tab:ablation}\footnotesize\setlength{\tabcolsep}{4pt}
+\begin{tabular}{@{}llrrrrc rc@{}}\toprule
+& & \multicolumn{5}{c}{$\Delta$PR-AUC (CISO $-$ variant)} & \multicolumn{2}{c}{$\Delta$novelty}\\
+\cmidrule(lr){3-7}\cmidrule(lr){8-9}
+Component removed & Variant & LR & SVC & RF & HGB & min Holm $p$ & median & Holm $p$\\\midrule
+Phase I (safety-guided anchors) & $\alpha=0$ & +0.0000 & +0.0012 & +0.0012 & -0.0005 & 0.059 & +0.119 & $<$0.001 \\
+Phase II clearance factor & kernel only & +0.0000 & +0.0000 & +0.0000 & +0.0006 & 0.392 & +0.011 & 0.007 \\
+Phase III (q-Gaussian placement) & $\lambda\sim\mathcal{U}[0,1]$ & +0.0000 & -0.0010 & +0.0016 & -0.0001 & 0.090 & +0.294 & $<$0.001 \\
+practical safety score & $s_i=\hat\gamma_i$ & -0.0000 & +0.0000 & +0.0000 & +0.0000 & 0.586 & +0.091 & $<$0.001 \\
+\bottomrule\end{tabular}\end{table}

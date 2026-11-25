@@ -1,0 +1,34 @@
+\begin{table}[t]\centering
+\caption{RQ1: PR-AUC on the 37-dataset evaluation suite. For each classifier: mean rank across datasets (lower is better), mean PR-AUC, win/tie/loss of CISO against the method, and the Holm-corrected $p$-value of the Wilcoxon signed-rank test of CISO against it. Friedman $p$-values: LR~$=$~0.0006, SVC~$=$~8.8e-10, RF~$=$~1.9e-08, HGB~$=$~0.0036.}
+\label{tab:rq1}\footnotesize\setlength{\tabcolsep}{3.5pt}
+\begin{tabular}{@{}lrrcc rrcc@{}}\toprule
+ & \multicolumn{4}{c}{LR} & \multicolumn{4}{c}{SVC}\\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}
+Method & rank & PR-AUC & W/T/L & Holm & rank & PR-AUC & W/T/L & Holm\\\midrule
+No resampling & 5.00 & 0.693 & 13/8/16 & 0.993 & 4.30 & 0.727 & 10/6/21 & 0.549 \\
+Class weighting & 6.01 & 0.693 & 16/5/16 & 1.000 & 5.68 & 0.710 & 15/9/13 & 1.000 \\
+Random oversampling & 5.11 & 0.699 & 16/4/17 & 1.000 & 4.42 & 0.718 & 16/4/17 & 1.000 \\
+SMOTE & 5.34 & 0.702 & 11/10/16 & 1.000 & 4.91 & 0.711 & 15/7/15 & 0.866 \\
+Borderline-SMOTE & 6.11 & 0.695 & 17/3/17 & 1.000 & 7.51 & 0.699 & 22/5/10 & 0.205 \\
+ADASYN & 6.18 & 0.697 & 17/4/16 & 1.000 & 7.74 & 0.697 & 19/5/13 & 1.000 \\
+SMOTE-ENN & 7.18 & 0.689 & 21/5/11 & 0.919 & 7.55 & 0.692 & 26/4/7 & 0.071 \\
+SMOTE-Tomek & 5.36 & 0.702 & 13/6/18 & 1.000 & 5.07 & 0.710 & 16/6/15 & 1.000 \\
+Safe-Level-SMOTE & 8.09 & 0.669 & 24/4/9 & 0.006 & 7.38 & 0.687 & 24/6/7 & 0.001 \\
+G-SMOTE & 5.72 & 0.699 & 13/6/18 & 1.000 & 6.11 & 0.707 & 16/7/14 & 1.000 \\
+\textbf{CISO} & 5.91 & 0.694 & -- & -- & 5.34 & 0.715 & -- & -- \\
+\midrule
+ & \multicolumn{4}{c}{RF} & \multicolumn{4}{c}{HGB}\\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}
+Method & rank & PR-AUC & W/T/L & Holm & rank & PR-AUC & W/T/L & Holm\\\midrule
+No resampling & 4.55 & 0.739 & 11/5/21 & 0.411 & 5.73 & 0.716 & 17/8/12 & 1.000 \\
+Class weighting & 4.43 & 0.736 & 9/7/21 & 0.453 & 5.59 & 0.716 & 17/5/15 & 0.775 \\
+Random oversampling & 4.41 & 0.736 & 9/7/21 & 0.382 & 5.05 & 0.731 & 18/8/11 & 1.000 \\
+SMOTE & 6.14 & 0.726 & 17/10/10 & 0.416 & 5.78 & 0.731 & 15/10/12 & 1.000 \\
+Borderline-SMOTE & 5.73 & 0.733 & 17/5/15 & 0.819 & 5.61 & 0.734 & 17/4/16 & 0.925 \\
+ADASYN & 6.78 & 0.720 & 19/9/9 & 0.440 & 6.66 & 0.723 & 19/7/11 & 0.552 \\
+SMOTE-ENN & 8.39 & 0.703 & 24/7/6 & 0.002 & 7.49 & 0.702 & 24/2/11 & 0.115 \\
+SMOTE-Tomek & 6.51 & 0.725 & 20/9/8 & 0.440 & 5.89 & 0.730 & 18/7/12 & 1.000 \\
+Safe-Level-SMOTE & 7.31 & 0.718 & 19/5/13 & 0.433 & 7.57 & 0.713 & 27/1/9 & 0.009 \\
+G-SMOTE & 6.00 & 0.722 & 17/11/9 & 0.549 & 5.51 & 0.729 & 18/8/11 & 0.641 \\
+\textbf{CISO} & 5.74 & 0.729 & -- & -- & 5.11 & 0.733 & -- & -- \\
+\bottomrule\end{tabular}\end{table}
